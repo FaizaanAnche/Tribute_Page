@@ -1,0 +1,53 @@
+.header{
+    text-align: center;
+    
+}
+
+main{
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+
+#img-div{
+    width: 100%;
+    margin: 0 auto;
+    background-color: black;
+}
+
+#img-caption{
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    display: block; 
+    margin: 0 auto;
+}
+
+#tribute-info{
+    text-align: center;
+}
+
+#headline{
+    padding: 30px;
+}
+
+blockquote{
+    max-width: 550px;
+    margin: auto;
+    padding: 30px;
+}
+
+ul{
+    max-width: 550px;
+    /* margin: 0 auto 50px auto; */
+    margin: auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
